@@ -21,3 +21,8 @@ The app also provides detailed exercise instructions and recommendations for sim
 
 ![Screenshot 2024-05-24 at 10 56 39 AM](https://github.com/Jyothikrishna21/fitness-application/assets/136105131/2c6acd7a-3df7-4020-b3b1-43a033342940)
 
+
+
+
+
+![Screenshot 2024-05-24 at 10 58 00 AM](https://github.com/Jyothikrishna21/fitness-application/assets/136105131/57d8a19a-fb1b-4f1f-82e4-e85cc4773d62)
