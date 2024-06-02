@@ -10,7 +10,7 @@
   {
     "title": "Notes-Maker",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Note-Maker is a web application that could help users effectivly create,manage and organize their notes.The goal was to develop a user-friendly application using the MERN stack.",
     "skills": ["React", "Express", "Node", "MongoDb"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Jyothikrishna21/notes-maker"
@@ -18,7 +18,7 @@
   {
     "title": "Simons-Game",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Simon Game using JavaScript, leveraging APIs for sound and color generation. The game incorporates a database to store user scores and progress, enhancing its replay value and providing users with a personalized experience.",
     "skills": ["React", "JAVASCRIPT"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Jyothikrishna21/simons-game"
